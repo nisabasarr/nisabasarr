@@ -4,8 +4,9 @@
 <h3>A passionate full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
 <p align="center">
-<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+<a href="#"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJoc3NkajRudm1zMGF0c3Joaml6cTF5NzdtYXI3ZmQwOXA0dGduOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Gc0z3LjGFPKHB32pE/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
+
 
 
 ## 🌐 Socials:
